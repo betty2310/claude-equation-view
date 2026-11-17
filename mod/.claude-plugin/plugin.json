@@ -1,0 +1,5 @@
+{
+  "name": "eqview",
+  "version": "0.1.0",
+  "description": "Draws display LaTeX equations in Claude's replies as images, through the kitty graphics protocol"
+}

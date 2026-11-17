@@ -1,0 +1,15 @@
+{
+  "name": "eqd",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Typesets TeX to cell-fitted PNGs for the eqview Claude Code mod",
+  "scripts": {
+    "start": "bun eqd.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "mathjax-full": "^3.2.2"
+  }
+}
